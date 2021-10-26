@@ -1,16 +1,14 @@
-### Hi there 👋
+## ✨ Olá, meu nome é Camila! ✨
 
-<!--
-**Camomilaa/Camomilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma estudante de Sistemas de Informação que está apenas no ínicio de uma jornada.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱Atualmente estou aprendendo:
+<ul><li>Java</li><li>Python</li><li>Javascript</li></ul>
+
+### 🍉Sinta-se livre pra me contatar:
+
+<a href="https://www.linkedin.com/in/camila-soares-da-silva-5b8583208/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> Camila Soares</a>
+
+
