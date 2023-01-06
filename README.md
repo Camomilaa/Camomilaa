@@ -5,7 +5,7 @@ Sou uma estudante de Sistemas de Informação que está apenas no ínicio de uma
 <hr>
 
 ### 🌱Atualmente estou aprendendo:
-<ul><li>Java</li><li>Python</li><li>Javascript</li></ul>
+<ul><li>Javascript</li><li>React</li><li>HTML5</li><li>CSS</li></ul>
 
 ### 🍉Sinta-se livre pra me contatar:
 
