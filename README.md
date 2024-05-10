@@ -1,6 +1,8 @@
 ## ✨ Olá, meu nome é Camila! ✨
 
-Sou uma estudante de Sistemas de Informação que está apenas no ínicio de uma jornada.
+Desenvolvedora PHP em constante aprendizado, atualmente focado no framework Laravel. Estou no 8º período do curso de Sistemas de Informação e apaixonado por solucionar desafios de programação. 
+No meu GitHub, você encontrará projetos práticos e experimentais que refletem minha jornada de aprendizado e aprimoramento como desenvolvedora.
+
 
 <hr>
 
