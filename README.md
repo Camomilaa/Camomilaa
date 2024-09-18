@@ -1,13 +1,10 @@
 ## ✨ Olá, meu nome é Camila! ✨
 
-Desenvolvedora PHP em constante aprendizado, atualmente focado no framework Laravel. Estou no 8º período do curso de Sistemas de Informação e apaixonado por solucionar desafios de programação. 
+Desenvolvedora PHP em constante aprendizado, atualmente focado no framework Laravel. Sou graduada em Sistemas de Informação e apaixonada por solucionar desafios de programação. 
 No meu GitHub, você encontrará projetos práticos e experimentais que refletem minha jornada de aprendizado e aprimoramento como desenvolvedora.
 
 
 <hr>
-
-### 🌱Atualmente estou aprendendo:
-<ul><li>PHP</li><li>Javascript</li><li>React</li><li>HTML5</li><li>CSS</li></ul>
 
 ### 🍉Sinta-se livre pra me contatar:
 
